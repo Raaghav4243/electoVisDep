@@ -1,4 +1,4 @@
-![Banner]("https://imgur.com/a/B5p7vlH")
+![Banner](https://i.imgur.com/DsrSfJS.png)
 <h1 align="center">ElectroVis</h1>
 <p align="center"><strong>Electro Vis is free, open-source tool for building and visualizing logic circuits.
 <br>
