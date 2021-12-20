@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/electoVisDep/static/css/main.e4738386.chunk.css",
+    "main.js": "/electoVisDep/static/js/main.61b26b19.chunk.js",
+    "main.js.map": "/electoVisDep/static/js/main.61b26b19.chunk.js.map",
+    "runtime-main.js": "/electoVisDep/static/js/runtime-main.1deb3197.js",
+    "runtime-main.js.map": "/electoVisDep/static/js/runtime-main.1deb3197.js.map",
+    "static/js/2.aaef5698.chunk.js": "/electoVisDep/static/js/2.aaef5698.chunk.js",
+    "static/js/2.aaef5698.chunk.js.map": "/electoVisDep/static/js/2.aaef5698.chunk.js.map",
+    "index.html": "/electoVisDep/index.html",
+    "precache-manifest.77a2bf428e7298d697e8de26c097f915.js": "/electoVisDep/precache-manifest.77a2bf428e7298d697e8de26c097f915.js",
+    "service-worker.js": "/electoVisDep/service-worker.js",
+    "static/css/main.e4738386.chunk.css.map": "/electoVisDep/static/css/main.e4738386.chunk.css.map",
+    "static/js/2.aaef5698.chunk.js.LICENSE.txt": "/electoVisDep/static/js/2.aaef5698.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1deb3197.js",
+    "static/js/2.aaef5698.chunk.js",
+    "static/css/main.e4738386.chunk.css",
+    "static/js/main.61b26b19.chunk.js"
+  ]
+}
