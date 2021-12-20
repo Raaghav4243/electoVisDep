@@ -107,7 +107,7 @@ export default class Navbar extends React.Component {
 
     GithubRepository() {
         window.open(
-            "https://github.com/StefanJo3107/logic-circuit-playground",
+            "https://github.com/Raaghav4243/electoVisDep",
             "_blank",
             "noopener,noreferrer"
         );
@@ -206,20 +206,7 @@ export default class Navbar extends React.Component {
                 <NavOption name="View" options={viewOptions} />
                 <NavOption name="Run" options={runOptions} />
                 <NavOption name="Help" options={helpOptions} />
-                <div className="ml-auto">
-                    <IconLink
-                        redirect="https://github.com/StefanJo3107"
-                        source={githubFilled}
-                    />
-                    <IconLink
-                        redirect="https://twitter.com/SJovGD"
-                        source={twitterCircleFilled}
-                    />
-                    <IconLink
-                        redirect="https://www.reddit.com/user/sjovanovic3107"
-                        source={redditCircleFilled}
-                    />
-                </div>
+
             </BNavbar>
         );
     }
