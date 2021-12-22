@@ -11,7 +11,7 @@ let tutorialPages = [
         content: (
             <div className="tutorial-content">
                 <p>
-                    <strong>Circuify - Logic Circuit Visualizer</strong> is
+                    <strong>ElectroVis - Logic Circuit Visualizer</strong> is
                     free, open-source tool for building and visualizing logic
                     circuits.
                 </p>
@@ -244,7 +244,7 @@ let tutorialPages = [
         content: (
             <div className="tutorial-content">
                 <p>
-                    One of the most important features of Circuify is the
+                    One of the most important features of ElectroVis is the
                     support for <strong>Integrated Circuits.</strong> Once you
                     create IC, you can use it repeatedly, which allows for
                     better organized and more structured design.
@@ -328,7 +328,7 @@ let tutorialPages = [
             <div className="tutorial-content">
                 <p>
                     That is about everything you need to know in order to use
-                    Circuify. All that is left now is to let your imagination
+                    ElectroVis. All that is left now is to let your imagination
                     run wild and create awesome things. Hopefully you'll enjoy
                     using it as much as I enjoyed making it.
                 </p>
@@ -339,7 +339,7 @@ let tutorialPages = [
                 </p>
                 {/* <img
                     className="img-fluid"
-                    src="./Images/CircuifySevenSegment.gif"
+                    src="./Images/ElectroVisSevenSegment.gif"
                 ></img> */}
                 <img
                     class="d-block w-100"

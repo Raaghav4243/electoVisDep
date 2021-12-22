@@ -12,7 +12,7 @@ function NavTitle(props) {
     return (
         <BNavbar.Brand className="px-3" href="#">
             <Icon className="mr-2" icon={integratedCircuit} width="25" />
-            <span className="Title">Circuify</span>
+            <span className="Title">ElectroVis</span>
         </BNavbar.Brand>
     );
 }
